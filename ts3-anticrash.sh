@@ -24,7 +24,7 @@ do
 		echo -e "\e[33m[$now]\e[39m" Status "\e[34mOnline\e[39m" 
 		echo
 		echo ============================================
-		sleep 30
+		sleep 30 #time check
 
 	else
 		echo
@@ -46,6 +46,6 @@ do
 		echo -e "\e[33m[$now]\e[39m" Server "\e[32mStarted\e[39m"
 		echo
 		echo ============================================
-		sleep 30
+		sleep 30 #time check
 	fi
 done 
