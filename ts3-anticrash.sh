@@ -1,4 +1,5 @@
 #!/bin/bash
+#made with <3 Lettly, habby, Matty
 clear
 a=0
 now=$(date +"%T")
